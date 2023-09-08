@@ -1,3 +1,3 @@
 # adp-git.github.io
 
-#landing page for aidigitalpathology website
+landing page for aidigitalpathology website
